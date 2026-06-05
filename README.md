@@ -1,94 +1,102 @@
 ![eletrica-j-santos](https://github.com/Epiled/teste_noweb/assets/55258483/05441678-9183-4f9c-bb97-24e334328b6a)
 
+<h1 align="center">🟡 ⚡ Noweb - Elétrica J.Santos ⚡ 🟡</h1>
 
-<h1 align="center" id="sobre">🟡 ⚡ Teste Noweb - Elétrica J.Santos ⚡ 🟡</h1>
+![Vercel Deploy](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)
+![GitHub release](https://img.shields.io/github/v/release/Epiled/noweb?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/Epiled/noweb?style=for-the-badge)
 
-<p>
-  Projeto de teste para trabalhar em uma agência de marketing, se eu fiz, no mínimo vira peça de portifólio.
-</p>
-<p>
-  Não a muito o quê dizer, recebi um wireframe de alta fidelidade no figma, apenas desktop, não foi especificado a preferência por linguagens ou tecnologias
-</p>
+![GitHub last commit](https://img.shields.io/github/last-commit/Epiled/noweb?style=for-the-badge)
+![Code Size](https://img.shields.io/github/languages/code-size/Epiled/noweb?style=for-the-badge)
 
-![Badge](https://img.shields.io/github/last-commit/Epiled/teste-noweb?style=for-the-badge)
-![Badge](https://img.shields.io/github/languages/code-size/Epiled/teste-noweb?style=for-the-badge)
-![Badge](https://img.shields.io/github/languages/count/Epiled/teste-noweb?style=for-the-badge)
-![Bagde](https://img.shields.io/badge/repo%20status-Beta-cyan?style=for-the-badge)
-![Bagde](https://img.shields.io/github/v/release/Epiled/teste-noweb?style=for-the-badge)
-![Bagde](https://img.shields.io/github/license/Epiled/teste-noweb?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Badge](https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 📑 Table of Contents
 
-<h2> 📑 Tabela de Conteúdos </h2>
+- [📑 Table of Contents](#-table-of-contents)
+- [📖 Overview](#-overview)
+- [🛠️ Technologies](#-technologies)
+- [⚡ Performance & PWA](#-performance--pwa)
+- [🚀 Demo](#-demo)
+- [📦 Install and Use](#-install-and-use)
+- [📂 File Structure](#-file-structure)
+- [🎨 Reference & Inspiration](#-reference--inspiration)
+- [👨‍💻 Author and Contact](#-author-and-contact)
 
-<!--ts-->
-   * [Sobre](#sobre)
-   * [Referência](#referencia)
-   * [Demonstração](#demonstracao)
-   * [Performance](#performance)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Arquivos Locais](#arquivos_locais)
-   * [Tecnologias](#tecnologias)
-   * [Autor](#autor)
-<!--te-->
+## 📖 Overview
 
-<h2 id="referencia"> 🔖 Referência </h2>
-<p>
-  Os arquivos de wireframes podem ser visto ou editador no seguinte link.
-<p>
-<p>
-  Figma: <a href="https://www.figma.com/file/VcbMzf41qKCyXJ0SXSBNkk/Teste-de-Dev-Web-%2F-El%C3%A9trica-J.-Santos-(Teste)?type=design&node-id=58%3A2&mode=design&t=qlclD4rtPneUqJCE-1">Teste Noweb - Elétrica J.Santos</a>
-</p>
+## 📖 Overview
 
-<h2 id="demonstracao"> 👀 Demonstração </h2>
+**Noweb - Elétrica J.Santos** is a high-fidelity web interface developed for an electrical materials wholesale distributor. The project focuses on delivering a fluid, conversion-oriented user journey tailored to the B2B electrical sector. Built from strict desktop wireframes, the application emphasizes pixel-perfect UI execution, semantic HTML structure, and rapid load times, ensuring an optimized catalog browsing experience without relying on heavy frameworks.
 
-<p>No link abaixo você pode ver a página no ar e rodar seus próprios teste de perfomance ou desempenho</p>
-<p>Teste Noweb - Elétrica J.Santos: <a href="https://epiled.github.io/teste-noweb/">epiled.github.io/teste-noweb/</a></p>
+Projeto de teste para trabalhar em uma agência de marketing, se eu fiz, no mínimo vira peça de portifólio.
 
-https://github.com/Epiled/teste_noweb/assets/55258483/146e33ff-26f8-4fa8-bec6-9d6d9bdaf38e
+Não a muito o quê dizer, recebi um wireframe de alta fidelidade no figma, apenas desktop, não foi especificado a preferência por linguagens ou tecnologias
 
-https://github.com/Epiled/teste_noweb/assets/55258483/0356188b-3053-4c70-b09e-011d51b9d2bd
+## 🛠 Technologies
 
-<h2 id="performance"> 📈 Performance Lighthouse </h2>
+The following technologies were used to build this project:
+
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## ⚡ Performance & PWA
+
+<!-- ![Lighthouse Performance](./design/github/lighthouse-report-dark.png) -->
 
 ![lighthouse-01](https://github.com/Epiled/teste-noweb/assets/55258483/23eded5b-bdf0-4a81-af82-44b6d31d54a7)
 
-<h2 id="instalacao"> ⚙ Instalação </h2>
+## 🚀 Demo
 
+Access the live application below to interact with the interface and run your own performance tests
+
+Noweb - Elétrica J.Santos: [https://epiled.github.io/teste-noweb/](https://epiled.github.io/teste-noweb/)
+
+#### Desktop
+
+https://github.com/Epiled/teste_noweb/assets/55258483/146e33ff-26f8-4fa8-bec6-9d6d9bdaf38e
+
+#### Mobile
+
+https://github.com/Epiled/teste_noweb/assets/55258483/0356188b-3053-4c70-b09e-011d51b9d2bd
+
+## 📦 Install and Use
+
+This project currently operates without a local development server or build step, meaning it can be run directly from your file system.
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Epiled/noweb.git
+cd noweb
 ```
-1. git clone https://github.com/Epiled/teste-noweb.git
-2. cd teste-noweb
-```
 
-<h2 id="como-usar"> 👩‍🏫 Como usar </h2>
+### Local Execution
 
-<h3 id="arquivos_locais">Arquivos Locais</h3>
-<p>Nesse ponto o projeto já pode ser executado no navegador através do arquivo "index.html"</p>
+To view and interact with the project, simply open the index.html file in your preferred web browser. You can do this by double-clicking the file in your file explorer or dragging it into an open browser tab.
 
-<h2 id="tecnologias"> 🛠 Tecnologias </h2>
+## 📂 File Structure
 
-As seguintes tecnologias foram usadas na construção deste projeto:
+Coming Soon!
 
-<ul>
-  <li><a href="https://www.w3schools.com/html/default.asp" target="_blank">HTML5</a></li>
-  <li><a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS3</a></li>
-  <li><a href="https://www.w3schools.com/js/default.asp" target="_blank">Javascript</a></li>
-</ul>
+## 🎨 Reference & Inspiration
 
-<h2 id="autor"> 👨‍💻 Autor </h2>
+The project's design and wireframes are available for viewing on Figma.
+
+Figma / Wireframe: [Noweb - Elétrica J.Santos](https://www.figma.com/file/VcbMzf41qKCyXJ0SXSBNkk/Teste-de-Dev-Web-%2F-El%C3%A9trica-J.-Santos-(Teste)?type=design&node-id=58%3A2&mode=design&t=qlclD4rtPneUqJCE-1)
+
+## 👨‍💻 Author and Contact
 
 <a href="https://github.com/Epiled">
+  <img src="https://user-images.githubusercontent.com/55258483/178338085-2cea8bf2-6d0c-409a-9d0e-23359b7d303e.png" alt="Felindo">
+  <br />
+  <sub><b>Felipe De Andrade</b></sub>
+</a>
 
-![Felindo](https://user-images.githubusercontent.com/55258483/178338085-2cea8bf2-6d0c-409a-9d0e-23359b7d303e.png)
- <br />
- <sub><b>Felipe De Andrade</b></sub></a>
+Made with ❤️ by Felipe De Andrade 👋🏽 Get in touch!
 
-Feito com ❤️ por Felipe De Andrade 👋🏽 Entre em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fademendonca/)](https://www.linkedin.com/in/fademendonca/)
-[![Gmail Badge](https://img.shields.io/badge/-felipe.deam98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.deam98@gmail.com)](mailto:felipe.deam98@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/felipe.deam/)](https://www.instagram.com/felipe.deam/)
-[![Codepen Badge](https://img.shields.io/badge/-Codepen-000000?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/epiled)](https://codepen.io/epiled)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fademendonca/)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/epiled)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.deam98@gmail.com)

@@ -29,10 +29,6 @@
 
 **Noweb - Elétrica J.Santos** is a high-fidelity web interface developed for an electrical materials wholesale distributor. The project focuses on delivering a fluid, conversion-oriented user journey tailored to the B2B electrical sector. Built from strict desktop wireframes, the application emphasizes pixel-perfect UI execution, semantic HTML structure, and rapid load times, ensuring an optimized catalog browsing experience without relying on heavy frameworks.
 
-Projeto de teste para trabalhar em uma agência de marketing, se eu fiz, no mínimo vira peça de portifólio.
-
-Não a muito o quê dizer, recebi um wireframe de alta fidelidade no figma, apenas desktop, não foi especificado a preferência por linguagens ou tecnologias
-
 ## 🛠 Technologies
 
 The following technologies were used to build this project:

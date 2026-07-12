@@ -47,7 +47,7 @@ The following technologies were used to build this project:
 
 Access the live application below to interact with the interface and run your own performance tests
 
-Noweb - Elétrica J.Santos: [https://epiled.github.io/teste-noweb/](https://epiled.github.io/teste-noweb/)
+Noweb - Elétrica J.Santos: [epiled.github.io/noweb/](epiled.github.io/noweb/)
 
 #### Desktop
 
